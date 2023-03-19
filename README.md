@@ -1,6 +1,8 @@
-E-Commerce Application
-Project in Action - E-Commerce Application
+# E-Commerce Application
 
-Run The App Locally
+
+## Run The App Locally
+
 npm run install && npm start
+
 visit url http://localhost:3000/
